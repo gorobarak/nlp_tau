@@ -1,0 +1,9 @@
+ex1/q2/playground.py
+*.npy
+*.pickle
+ex1/q2/requirements.txt
+ex1/q2/env.yml
+ex1/q2/written_solution_template.tex
+.idea/
+ex1/q2/helpers/__pycache__/
+ex1/q2/__pycache__/
